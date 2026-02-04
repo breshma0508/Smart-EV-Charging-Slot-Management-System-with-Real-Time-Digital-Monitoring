@@ -67,7 +67,7 @@ This system demonstrates how embedded software can control and monitor EV chargi
 3. Enter amount (100–600)
 4. Observe LCD output
    
- Total codt around 3000 without car (wooden)
+ Total cost around 3000 without car (wooden)
 ## Limitations (Current Code)
 - Payment input is simulated via Serial Monitor
 - No real charging power control implemented
